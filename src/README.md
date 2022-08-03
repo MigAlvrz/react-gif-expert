@@ -1,1 +1,0 @@
-# Esta es una pequeña app para buscar gifs que hice con react
